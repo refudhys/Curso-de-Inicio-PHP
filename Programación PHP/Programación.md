@@ -10,7 +10,7 @@ Proceso de escribir instrucciones para que una computadora realice tareas espec√
 
 <font color="#1b75bb"> valor que no se puede modificar durante la ejecuci√≥n de un programa.</font>
 
-### Tipo de Variables
+## Tipo de Variables
 
 
 ##### String: 
