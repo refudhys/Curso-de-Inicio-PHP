@@ -24,4 +24,5 @@ Variables
        echo $mensajes[2].$Int_1/$Int_2." <br>";
 
 ¿Que es hecho?
+
 Es un comando para la impresión de un texto en pantalla. Es utilizado en las terminales de los sistemas operativos como Unix, GNU/Linux, o MS-DOS; dentro de pequeños programas llamados scripts; y en ciertos lenguajes de programación tales como PHP.
