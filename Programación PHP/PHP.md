@@ -4,7 +4,7 @@ Hypertext Preprocessor
 
 Lenguaje de programación interpretado  del lado del servidor
 
-## Declaración para el inicio del código
+## Iniciando y Declarando el código
 ```php
     <?php  // Sintaxis para inicio del código PHP
       //  Esto es un comentario y no es parte del código por lo que no es interpretado por el compilador
