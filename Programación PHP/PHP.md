@@ -29,5 +29,6 @@ Lenguaje de programación interpretado  del lado del servidor
    $string ="A";   // Esta es una variable del tipo chart
 
 - [Ejemplo 1](Ejemplo-1.md "Ejercicio 1")  
+- [Ejemplo 2](Ejemplo-2.md "Ejercicio 2")  
 
    
