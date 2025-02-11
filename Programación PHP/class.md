@@ -2,7 +2,7 @@
 
 La definición básica de una clase comienza con la palabra reservada class, seguida de un nombre de clase, y continuando con un par de llaves que encierran las definiciones de las propiedades y métodos pertenecientes a dicha clase.
 
-#### 1 class 
+#### 1 class  {collapsible="true"}
 
 
 
@@ -24,7 +24,7 @@ class ClaseSencilla
 ?>
 
 ```
-#### 2 class  
+#### 2 class  {collapsible="true"}
 ```php
 <?php
 class A
