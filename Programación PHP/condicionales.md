@@ -17,10 +17,10 @@ Ahora como quedaría lo anterior en lenguaje php ?
 ```php
     <?php
       
-      if 1==1 then
-	        se cumple la condición
-            aquí va el código cuando se cumple la condición
-	   endif
+      if (1==1)
+      {
+          se cumple la condición
+       }
 	   
 ``` 
 
@@ -37,9 +37,28 @@ ejemplificar como:
 Como queda esto en php ?
 
 ```php
-   if 2== then
-     tarea x;
-   else
-     tarea y;
-   endif	 
+   if (2==2) //si
+   { 
+      tarea x;
+   }else{ // si no
+       tarea y;
+   } // fin
+   	 
+```
+
+switch
+
+```php
+    switch ($i) {
+      case 0:
+         echo "i igual 0";
+        break;
+      case 1:
+         echo "i igual 1";
+       break;
+      case 2:
+       echo "i igual 2";
+      break;
+    }
+
 ```
