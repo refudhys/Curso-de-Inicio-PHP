@@ -19,7 +19,7 @@ Lenguaje de programación interpretado  del lado del servidor
 
     ?>  //Sintaxis para el cierre del código PHP
 
-
+```
 
 ## Declaración de variables
 
@@ -28,7 +28,7 @@ Lenguaje de programación interpretado  del lado del servidor
    $caracter = "A"; // Esta es una variable del tipo chart
 
    $string ="A";   // Esta es una variable del tipo chart
-```
+
 
 - [Ejemplo 1](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-1.md "Ejercicio 1")  
 - [Ejemplo 2](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-2.md "Ejercicio 2")  
