@@ -33,3 +33,6 @@ función __destruct()
 // destruir el objeto o limpiar recursos aquí
 }
 ```
+
+
+<a href="https://www.geeksforgeeks.org/php-constructors-and-destructors/">Referencia</a>
