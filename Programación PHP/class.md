@@ -5,7 +5,7 @@ La definición básica de una clase comienza con la palabra reservada class, seg
 
 
 #### class {collapsible="true"}
-
+Una class
 
 ```php
 
