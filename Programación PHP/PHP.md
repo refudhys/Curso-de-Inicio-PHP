@@ -27,7 +27,8 @@ Lenguaje de programación interpretado  del lado del servidor
    $string ="A";   // Esta es una variable del tipo chart
 
 
-- [Ejemplo 1](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-1.md "Ejercicio 1")  
-- [Ejemplo 2](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-2.md "Ejercicio 2")  
+- [variables y constantes](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-1.md "Ejercicio 1")  
+- [condicionales](condicionales.md "Ejercicio 1")
+- [siclos básicos](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-2.md "Ejercicio 2")  
 
    
