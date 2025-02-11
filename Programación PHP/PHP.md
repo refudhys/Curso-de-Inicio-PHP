@@ -14,9 +14,6 @@ Lenguaje de programación interpretado  del lado del servidor
           de
           varias líneas
       */ <----- Se cierra o termina un comentario de varias líneas
-
-     
-
     ?>  //Sintaxis para el cierre del código PHP
 
 ```
