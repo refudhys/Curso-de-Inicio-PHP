@@ -9,9 +9,11 @@ La definición básica de una clase comienza con la palabra reservada class, seg
 class ClaseSencilla
 {
     // Declaración de una propiedad
+    // variable que pude representar la propiedad de un objeto como podria se color,forma, tamaño
     public $var = 'un valor predeterminado';
 
     // Declaración de un método
+    // Bloque de codigo que contiene una serie de instrucones
     public function mostrarVar() {
         echo $this->var;
     }
