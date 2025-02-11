@@ -2,6 +2,7 @@
 
 La definición básica de una clase comienza con la palabra reservada class, seguida de un nombre de clase, y continuando con un par de llaves que encierran las definiciones de las propiedades y métodos pertenecientes a dicha clase.
 
+
 #### class {collapsible="true"}
 
 
