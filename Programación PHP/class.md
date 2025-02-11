@@ -21,7 +21,7 @@ class ClaseSencilla
 ?>
 
 ```
-##  2 class {collapsible="true"}
+####  2 class {collapsible="true"}
 ```php
 <?php
 class A
