@@ -144,3 +144,5 @@ Hace referencia a la clase actual y generalmente lo usarías cuando no se genera
 
 ¿Qué es  $this en PHP?
 En PHP, $thisla palabra clave hace referencia al objeto actual de la clase. La $thispalabra clave permite acceder a las propiedades y métodos del objeto actual dentro de la clase mediante el operador de objeto ( ->):
+
+<a href="https://www.phptutorial.net/php-oop/php-this/"></a>
