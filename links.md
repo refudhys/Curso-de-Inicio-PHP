@@ -5,3 +5,5 @@
 <a href="https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/linking">md</a>
 <a href="https://blog.ticjob.es/tipos-de-variables-en-programacion/">tut</a>
 <a href="https://support.zendesk.com/hc/es/articles/4408846544922-Uso-de-Markdown-para-el-formato-de-texto">makdoc</a>
+
+<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">md</a>
