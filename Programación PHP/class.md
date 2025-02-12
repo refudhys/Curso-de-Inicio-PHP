@@ -33,17 +33,29 @@ class ClaseSencilla
 
 class Opbasic
 { 
-    function Suma($v1,$v2)
+
+    /*
+    public $public = 'Public';
+    protected $protected = 'Protected';
+    private $private = 'Private';
+*/
+
+    public function Suma($v1,$v2)
     {
-      return $v1+$v2;
+      
+       // $val = self::laOperacion($v1,$v2);
+       $val = $this->laOperacion($v1,$v2);
+      return "Suma= ".$val;
     }
 
-    function Resta($v1,$v2)
+    public function Resta($v1,$v2)
     {
         return $v1-$v2;
     }
-   
-
+   // static
+    private  function laOperacion($v1,$v2){
+        return $v1+$v2;
+    }
 }
 
 class ObComp
@@ -62,6 +74,23 @@ echo $x->Suma(3,2);
 echo "<br>";
 echo $x->Resta(3,2);
 
+echo Opbasic::Resta(3,2);
+
+
+  $i = 1;
+        while ($i <= 10):
+            echo $i;
+            echo "<br>";
+            $i++;
+        endwhile;
+        
+        
+        $obj = new Opbasic();
+echo $obj->public;    // Funciona bien
+echo $obj->protected; // Error Fatal
+echo $obj->private;   // Error Fatal
+        
+        
 ```
 #### 3 class  {collapsible="true"}
 
@@ -101,3 +130,17 @@ $b->bar();
 B::bar();
 ?>
 ```
+### Definición
+
+La palabra reservada ***'static'***
+Declarar propiedades o métodos de clases como estáticos los hacen accesibles sin la necesidad de instanciar la clase. Una propiedad declarada como static no puede ser accedida con un objeto de clase instanciado (aunque un método estático sí lo puede hacer).
+
+Por motivos de compatibilidad con PHP 4, si no se utiliza ninguna declaración de visibilidad, se tratará a las propiedades o métodos como si hubiesen sido definidos como public.
+
+Debido a que los métodos estáticos se pueden invocar sin tener creada una instancia del objeto, la seudovariable $this no está disponible dentro de los métodos declarados como estáticos.
+
+La palabra reservada ***self***
+Hace referencia a la clase actual y generalmente lo usarías cuando no se genera una instancia de la misma, como cuando usas métodos estáticos:
+
+¿Qué es  $this en PHP?
+En PHP, $thisla palabra clave hace referencia al objeto actual de la clase. La $thispalabra clave permite acceder a las propiedades y métodos del objeto actual dentro de la clase mediante el operador de objeto ( ->):
