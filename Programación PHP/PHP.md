@@ -30,6 +30,7 @@ Lenguaje de programación interpretado  del lado del servidor
 - [Variables y constantes](Ejemplo1.md "Variables y constantes")  
 - [Condicionales](condicionales.md "condicionales")
 - [Ciclos básicos](https://github.com/refudhys/Curso-de-Inicio-PHP/blob/master/Programaci%C3%B3n%20PHP/Ejemplo-2.md "Siclos basicos")  
+- [funciones](funcion.md "Funciones")
 - [class](class.md "clase")
 - [Constructor y destructor](Constructor.md "Constructores y destructores")
    
